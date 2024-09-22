@@ -11,3 +11,8 @@ This project utalizes the following React concepts to built a Travel Journal app
 * Implementation of dark mode via CSS
 
 ## Screenshots
+### Light Mode
+<img width="1791" alt="Screenshot 2024-09-22 at 12 06 02 PM" src="https://github.com/user-attachments/assets/ca191071-e395-438e-9d4c-f0ea907c95ce">
+
+### Dark Mode
+<img width="1788" alt="Screenshot 2024-09-22 at 12 16 27 PM" src="https://github.com/user-attachments/assets/49b58992-936c-46d4-b095-7e254a98e4b8">
